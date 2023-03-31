@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ica-liman.github.io/gh-pages/sitemap.xml
